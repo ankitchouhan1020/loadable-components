@@ -1,6 +1,6 @@
 # @loadable/codemod
 
-This package is a collection of codemod that can be used to help making big changes easier to a project, for example: migrating from `react-loadable` to `@loadable/component`
+This package is a collection of codemod that can be used to help making big changes easier to a project, for example: migrating from `'@7rulnik/react-loadable` to `@loadable/component`
 
 ## Notes about `react-loadable-to-loadable-component` transform
 
