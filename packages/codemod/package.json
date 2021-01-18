@@ -1,7 +1,7 @@
 {
   "name": "fork-loadable-codemod",
   "description": "Various codemods related to @loadable/components for easier migration/upgrades.",
-  "version": "5.13.3",
+  "version": "5.13.4",
   "repository": "git@github.com:ankitchouhan1020/loadable-components.git",
   "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
   "bin": {
