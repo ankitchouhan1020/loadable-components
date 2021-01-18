@@ -47,7 +47,7 @@ module.exports = (file, api) => {
     if (
       node.specifiers[0] &&
       node.specifiers[0].local.name === 'Loadable' &&
-      node.source.value === '@7rulnik/react-loadabl'
+      node.source.value === '@7rulnik/react-loadable'
     ) {
       node.specifiers[0].local.name = 'loadable'
       node.source.value = '@loadable/component'
